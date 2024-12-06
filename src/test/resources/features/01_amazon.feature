@@ -5,4 +5,6 @@ Feature:Go to Website and Check Buttons and Links
     When user goes the page
     Then user closed cookies
     #Then user search "ürün" in searchbox
+
+
     #Then user validate that there is no product
